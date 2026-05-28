@@ -1,0 +1,7 @@
+*.o
+main
+test
+a.out
+viewer/doorbell.bmp
+.git_corrupted_backup/
+.git_corrupted_backup/
